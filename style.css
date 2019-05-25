@@ -1,0 +1,56 @@
+
+.container {
+	width 50%
+	margin : 
+}
+  body{
+    background-image: url(doit.gif);
+    background-size: 100%;
+  }
+ 
+  h2{
+  	text-align: center;
+  	color: #191970;
+  	font-size: 42px;
+    text-shadow: 5px -1px 10px #D3D3D3 ;
+
+  }
+
+
+  h3{
+    text-align: center;
+  }
+
+  form{
+    text-align: center;
+    color: #191970;
+    font-size: 24px;
+    font-stroke: rgb(178, 34, 33);
+    font-weight: bold;
+    text-decoration: underline;
+
+
+  }
+
+  input[type=text]{
+    width: 30%;
+    height: 20px;
+    font-size: 16px;
+    text-align: center;
+    font-family: bebasnue;
+
+  }
+  input[type=email]{
+    width: 30%;
+    margin: 10px;
+    font-size: 16px;
+    text-align: center;
+    font-family: bebasnue;
+  }
+
+  select{
+    width: 30%;
+    height: 30%;
+    text-align: center;
+  }
+

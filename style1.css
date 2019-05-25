@@ -1,0 +1,14 @@
+body{
+    background-image: url(pink.gif);
+    background-size: 100%;
+  }
+
+  div{
+  	 border: 2px solid red;
+  	 align-content: center;
+  	 text-align: center;
+	 font-size: 34px;
+	 text-shadow: 5px -1px 10px #D3D3D3 ;
+	 color: #fff;
+  }
+
