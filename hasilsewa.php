@@ -35,7 +35,7 @@ $cek3 = isset($_POST['waktu']);
    	echo "tagihan sebesar : ", $_POST['waktu'], "<br />";
 
    	echo " Akan di kirim kepada email yang tertera , terima kasih sudah berlangganan :3 ", "</br>","</br>";
-   	echo " Jika ingin mengisi kembali tekan tombol , isi kembali";
+   	echo " Jika ingin mengisi kembali tekan tombol , di bawah ini";
    }
 
    
